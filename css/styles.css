@@ -36,3 +36,16 @@ li {
 .f {
     background-color: #9370db;
 }
+ul.flex{
+    display:flex;
+    justify-content: flex-start;
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-between;
+
+    align-items: flex-start;
+    align-items: flex-end;
+    align-items: center;
+    align-items: baseline;
+    place-items: baseline center;
+}
